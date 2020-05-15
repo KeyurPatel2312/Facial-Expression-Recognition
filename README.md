@@ -1,2 +1,2 @@
 # Facial-Expression-Recognition
-It is facial expression recognition model trained using convolutional neural network. Currently it's accuracy is 57%.
+It is facial expression recognition model trained using convolutional neural network based VGG16 model. The Model was trained and tested using FER2013 dataset having around 4000 images having different variations. The overall accuracy of the model is 71 ± 2%. 
